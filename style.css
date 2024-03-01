@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: #fff;
+}
+body{
+    text-align: center;
+    background-color: coral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fun p{
+    margin-top: 8px;
+    color: aqua;
+    font-family: cursive;
+}
+.fun span{
+    margin: 20px;
+    font-size: 80px;
+}
+.container{
+    background-color: black;
+    height: 55vh;
+    width: 25vw;
+    border-radius: 15px;
+    margin-top: 150px;
+    border: 1.5px solid coral;
+}
+
+.area{
+    margin: 15px;
+    color: aqua;
+}
+
+.button button{
+    margin: 7px;
+    height: 40px;
+    width: 100px;
+    background-color: coral;
+    outline: none;
+    border: 6px aliceblue;
+    border-radius: 8px;
+    cursor: pointer;
+}
